@@ -1,4 +1,4 @@
-# Datenschutzerklärung 
+Datenschutzerklärung 
 
 Anmerkung: Unter ID wird im gesamten Dokument eine eindeutige und zufällig generierte, alphanumerische Identifikationsnummer verstanden.
 
@@ -34,5 +34,5 @@ Bitte beachten Sie, dass wir Ihre Schachpartien nicht löschen können, da Ihr G
 
 Sie können jederzeit Auskunft über Ihre gespeicherten Daten in Form einer Textdatei haben. Bitte setzen Sie sich dafür über die E-Mail Adresse justchess.app@gmail.com in Verbindung und schreiben in den Body der E-Mail eine kurze Aufforderung zusammen mit Ihrem Nutzernamen. Ich werde mich dann schnellstmöglich darum kümmern.
 
-von Martin Jurk, 19.10.20
+von QW3RTZUI0P, 19.10.20
 
