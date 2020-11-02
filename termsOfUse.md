@@ -11,7 +11,7 @@ Der Betreiber garantiert in keinster Weise ein vollstaendiges oder fehlerfreies 
 Der Benutzer ist damit einverstanden, dass Daten die bei der Benutzung von JustChess anfallen über das Internet auf die Server der Firma Google gesendet werden (genau: auf die Server von Firebase, einem Produkt von Google: [Homepage](https://firebase.google.com/?hl=de) [Datenschutzbestimmungen](https://firebase.google.com/support/privacy?hl=de)
 (zu den Datenschutzbestimmungen: https://JustChess.github.io/privacyPolicy.md)
 
-Der Benutzer kann aus Gründen der limitierten Speicherkapazität höchstens 20 Partien gleichzeitig spielen.
+Der Benutzer kann aus Gründen der limitierten Speicherkapazität höchstens 30 Partien gleichzeitig spielen.
 
 Der Service von JustChess kann jederzeit und ohne Vorwarnung beendet werden.
 
